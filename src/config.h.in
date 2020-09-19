@@ -21,6 +21,7 @@
 #cmakedefine SUPPORT_HIGH_DPI 1
 // Support CompressData() and DecompressData() functions
 #cmakedefine SUPPORT_COMPRESSION_API 1
+#cmakedefine RL_CULL_DISTANCE_FAR 250000.0
 
 // rlgl.h
 // Support VR simulation functionality (stereo rendering)
